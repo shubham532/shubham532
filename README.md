@@ -1,4 +1,4 @@
-<img align="right" alt="https:"https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coading" width="400" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
